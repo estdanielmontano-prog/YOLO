@@ -1,3 +1,5 @@
+Enlace a WOKWI
+https://wokwi.com/projects/473343017327443969
 # Detección de Carro y Moto de Juguete con YOLO + ESP32
 
 Sistema de visión artificial que detecta en tiempo real un **carro de juguete** y una **moto de juguete** usando el modelo **YOLO**, y enciende un **LED rojo** o un **LED verde** conectados a una **ESP32** según el objeto detectado.
